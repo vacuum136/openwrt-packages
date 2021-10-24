@@ -1,0 +1,3 @@
+[submodule "passwall"]
+	path = passwall
+	url = https://github.com/xiaorouji/openwrt-passwall.git
