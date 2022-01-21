@@ -19,3 +19,6 @@
 [submodule "iKoolProxy"]
 	path = iKoolProxy
 	url = https://github.com/1wrt/luci-app-ikoolproxy.git
+[submodule "luci-app-ikoolproxy"]
+	path = luci-app-ikoolproxy
+	url = https://github.com/1wrt/luci-app-ikoolproxy.git
