@@ -16,3 +16,6 @@
 [submodule "AutoBuildPackages"]
 	path = AutoBuildPackages
 	url = https://github.com/Hyy2001X/AutoBuild-Packages.git
+[submodule "iKoolProxy"]
+	path = iKoolProxy
+	url = https://github.com/1wrt/luci-app-ikoolproxy.git
